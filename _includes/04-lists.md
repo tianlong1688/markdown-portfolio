@@ -2,4 +2,4 @@
 - Long walks on the beach
 - Disco dancing
 - Open Source
-- Learing Git and GitHub
+- Learning Git and GitHub
